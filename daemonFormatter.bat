@@ -17,3 +17,4 @@ echo return >> clickerDaemon.ahk
 echo Escape:: >> clickerDaemon.ahk
 echo ExitApp >> clickerDaemon.ahk
 echo return >> clickerDaemon.ahk
+clickerDaemon.ahk
